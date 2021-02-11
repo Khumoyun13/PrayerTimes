@@ -1,0 +1,21 @@
+* {
+    /* margin: 0;
+    padding: 0; */
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+select{
+    outline: none;
+}
+
+tr, th, td{
+    border: 2px solid black;
+    padding: 20px;
+}
+
+table{
+    margin-top: 30px;
+    border-collapse: collapse;
+}
